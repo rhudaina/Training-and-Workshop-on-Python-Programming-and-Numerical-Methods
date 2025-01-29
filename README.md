@@ -3,6 +3,15 @@
 
 Visayas State University, Baybay City, Leyte
 
-##### Day 1. Python Basics and Programming Fundamentals
-- Lecture 1. Introduction to Python
-- Lecture 2. Control Structures and Visualization
+##### Day 1. Python Basics and Programming Fundamentals (Dr. Crisanto L. Abas)
+- Python Basics (Vectors, Matrices, Statistics)
+- Data Visualization in Python (Graphs of Functions, Dataset)
+- Programming Fundamentals
+
+
+##### Day 2. Python Basics and Programming Fundamentals (Dr. Rhudaina Z. Mohammad)
+- 
+
+##### Day 3. Python Basics and Programming Fundamentals (Dr. Arrianne Crystal Velasco)
+- 
+
