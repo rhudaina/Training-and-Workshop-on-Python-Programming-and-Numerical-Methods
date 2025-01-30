@@ -8,8 +8,11 @@
 - Programming Fundamentals
 
 
-##### Day 2. Python Basics and Programming Fundamentals (Dr. Rhudaina Z. Mohammad)
-- 
+##### Day 2. Introduction to Numerical Linear Algebra (Dr. Rhudaina Z. Mohammad)
+- Linear Systems and Gauss Elimination
+- Matrix Factorization
+- Singular Value Decomposition
+- Sparse Systems and Iterative Methods
 
 ##### Day 3. Python Basics and Programming Fundamentals (Dr. Arrianne Crystal Velasco)
 - 
