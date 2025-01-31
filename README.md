@@ -15,5 +15,6 @@
 - Sparse Systems and Iterative Methods
 
 ##### Day 3. Introduction to Numerical Differential Equations and Optimization (Dr. Arrianne Crystal Velasco)
-- 
+- Numerical Differential Equations
+- Numerical Optimization
 
