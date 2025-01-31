@@ -25,6 +25,7 @@ Speaker: **Dr. Arrianne Crystal Velasco**, UP Diliman Institute of Mathematics
 - Numerical Optimization
 
 ### Organizing Committee
+VSU Department of Mathematics
 1. Dr. Eusebio R. Lina, Jr.
 2. Dr. Leo A. Mamolo
 3. Dr. Crisanto L. Abas
