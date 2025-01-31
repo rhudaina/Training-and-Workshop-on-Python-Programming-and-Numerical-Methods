@@ -1,12 +1,12 @@
 ## Training and Workshop on Python Programming and Numerical Methods
 ### An Introduction to Numerical Linear Algebra and Differential Equations
-#### Visayas State University, Baybay City, Leyte
+#### Visayas State University (VSU), Baybay City, Leyte
 
 
 ### Workshop Schedule
 
 #### Day 1. Python Basics and Programming Fundamentals
-Speaker: **Dr. Crisanto L. Abas**, VSU Mathematics Department
+Speaker: **Dr. Crisanto L. Abas**, VSU Department of Mathematics
 - Python Basics (Vectors, Matrices, Statistics)
 - Data Visualization in Python (Graphs of Functions, Dataset)
 - Programming Fundamentals
