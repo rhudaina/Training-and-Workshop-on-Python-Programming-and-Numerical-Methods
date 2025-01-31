@@ -1,4 +1,4 @@
-## Training and Workshop on Python Programming and Numerical Methods
+# VSU Training and Workshop on Python Programming and Numerical Methods
 
 <img src="https://github.com/rhudaina/Training-and-Workshop-on-Python-Programming-and-Numerical-Methods/blob/main/poster.jpg" width="700">
 
@@ -20,11 +20,9 @@ Speaker: **[Dr. Rhudaina Mohammad](https://math.upd.edu.ph/faculty/mohammad-rhud
 - Sparse Systems and Iterative Methods
 
 #### Day 3. Introduction to Numerical Differential Equations and Optimization
-Speaker: **Dr. Arrianne Crystal Velasco**, UP Diliman Institute of Mathematics
+Speaker: **[Dr. Arrianne Crystal Velasco](https://math.upd.edu.ph/faculty/velasco-arrianne-crystal)**, UP Diliman Institute of Mathematics
 - Introduction to Numerical Differential Equations
 - Introduction to Numerical Optimization
-
-###
 
 ### Organizing Committee
 **VSU Department of Mathematics**
