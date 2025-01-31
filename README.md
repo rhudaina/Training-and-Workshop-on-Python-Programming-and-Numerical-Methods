@@ -2,7 +2,7 @@
 ### An Introduction to Numerical Linear Algebra and Differential Equations
 #### Visayas State University (VSU), Baybay City, Leyte
 
-
+<img src="https://github.com/rhudaina/Training-and-Workshop-on-Python-Programming-and-Numerical-Methods/blob/main/poster.jpg" width="700">
 
 
 ### Workshop Schedule
