@@ -1,6 +1,4 @@
-## Training and Workshop on Python Programming and Numerical Methods
-### An Introduction to Numerical Linear Algebra and Differential Equations
-#### Visayas State University (VSU), Baybay City, Leyte
+## VSU Training and Workshop on Python Programming and Numerical Methods
 
 <img src="https://github.com/rhudaina/Training-and-Workshop-on-Python-Programming-and-Numerical-Methods/blob/main/poster.jpg" width="700">
 
