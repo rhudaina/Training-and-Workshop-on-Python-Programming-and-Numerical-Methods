@@ -1,4 +1,4 @@
-## VSU Training and Workshop on Python Programming and Numerical Methods
+## Training and Workshop on Python Programming and Numerical Methods
 
 <img src="https://github.com/rhudaina/Training-and-Workshop-on-Python-Programming-and-Numerical-Methods/blob/main/poster.jpg" width="700">
 
