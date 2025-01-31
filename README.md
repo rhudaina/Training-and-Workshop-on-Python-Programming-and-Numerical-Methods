@@ -32,8 +32,8 @@ Speaker: **Dr. Arrianne Crystal Velasco**, UP Diliman Institute of Mathematics
 
 ### Acknowledgment 
 This workshop would not have been possible without the support of the followig:
-1. **Visayas State University (VSU)** through the *Office of the University President*
-2. **Matehmatical Society of the Philippines**
+1. **Visayas State University (VSU) Office of the University President**
+2. **Mathematical Society of the Philippines**
 3. **Mathematical Society of the Philippines Region VIII Chapter**
 4. **VSU Faculty Advancement Network Association Inc. (VSUFAN AI)**
 5. **VSU Department of Mathematics**
