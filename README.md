@@ -3,6 +3,8 @@
 #### Visayas State University (VSU), Baybay City, Leyte
 
 
+
+
 ### Workshop Schedule
 
 #### Day 1. Python Basics and Programming Fundamentals
@@ -31,4 +33,4 @@ Speaker: **Dr. Arrianne Crystal Velasco**, UP Diliman Institute of Mathematics
 3. Dr. Crisanto L. Abas
 
 ### Acknowledgment 
-This workshop would not have been possible without the support of the **Visayas State University** through the *Office of the University President*, and the **Mathematical Society of the Philippines**.
+This workshop would not have been possible without the support of the **Visayas State University** through the *Office of the University President*, and the **Mathematical Society of the Philippines Region VIII Chapter** and **.
