@@ -24,6 +24,8 @@ Speaker: **Dr. Arrianne Crystal Velasco**, UP Diliman Institute of Mathematics
 - Introduction to Numerical Differential Equations
 - Introduction to Numerical Optimization
 
+###
+
 ### Organizing Committee
 **VSU Department of Mathematics**
 1. Dr. Eusebio R. Lina, Jr.
@@ -31,7 +33,7 @@ Speaker: **Dr. Arrianne Crystal Velasco**, UP Diliman Institute of Mathematics
 3. Dr. Crisanto L. Abas
 
 ### Acknowledgment 
-This workshop would not have been possible without the support of the followig:
+This workshop would not have been possible without the support of the following:
 1. **Visayas State University (VSU) Office of the University President**
 2. **Mathematical Society of the Philippines**
 3. **Mathematical Society of the Philippines Region VIII Chapter**
