@@ -21,8 +21,8 @@ Speaker: **Dr. Rhudaina Mohammad**, UP Diliman Institute of Mathematics
 
 #### Day 3. Introduction to Numerical Differential Equations and Optimization
 Speaker: **Dr. Arrianne Crystal Velasco**, UP Diliman Institute of Mathematics
-- Numerical Differential Equations
-- Numerical Optimization
+- Introduction to Numerical Differential Equations
+- Introduction to Numerical Optimization
 
 ### Organizing Committee
 **VSU Department of Mathematics**
