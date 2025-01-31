@@ -13,7 +13,7 @@ Speaker: **Dr. Crisanto L. Abas**, VSU Department of Mathematics
 
 
 #### Day 2. Introduction to Numerical Linear Algebra
-Speaker: **Dr. Rhudaina Mohammad**, UP Diliman Institute of Mathematics
+Speaker: **[Dr. Rhudaina Mohammad](https://math.upd.edu.ph/faculty/mohammad-rhudaina)**, UP Diliman Institute of Mathematics
 - Linear Systems and Gauss Elimination
 - Matrix Factorization
 - Singular Value Decomposition
