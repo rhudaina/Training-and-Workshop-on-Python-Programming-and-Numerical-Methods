@@ -8,8 +8,7 @@
 - Programming Fundamentals
 
 
-##### Day 2. Introduction to Numerical Linear Algebra, 
-##### Dr. Rhudaina Mohammad, Institute of Mathematics, UP Diliman
+##### Day 2. Introduction to Numerical Linear Algebra, Dr. Rhudaina Mohammad, Institute of Mathematics, UP Diliman
 - Linear Systems and Gauss Elimination
 - Matrix Factorization
 - Singular Value Decomposition
